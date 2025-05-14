@@ -1,0 +1,6 @@
+title: My Jekyll Site
+description: A simple Jekyll site built with GitHub Actions
+url: "https://your-username.github.io"
+baseurl: "/your-repo-name"  # Adjust this for your repository name, if necessary
+
+theme: jekyll-theme-primer
